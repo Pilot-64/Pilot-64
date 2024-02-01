@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pilot-64, or Oliver Nederal
-- 👀 I’m interested in C++, Python, Node.js, ML, and Neural Engines.
-- 🌱 I’m currently learning Node.js programming.
-- 📫 I can be reached via my email, Reddit, and Discord DMs. 
+Hi,
+My name is Oliver Nederal
+
+oliver.nederal.com
